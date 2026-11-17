@@ -1,0 +1,12 @@
+title: Penguinyeop의 기술 기록
+description: 프로젝트에서 고민하고 결정한 과정을 기록해요.
+url: https://penguinyeop.github.io
+baseurl: /my-blog
+theme: minima
+lang: ko
+timezone: Asia/Seoul
+future: false
+permalink: /posts/:title/
+exclude:
+  - README.md
+  - docs
